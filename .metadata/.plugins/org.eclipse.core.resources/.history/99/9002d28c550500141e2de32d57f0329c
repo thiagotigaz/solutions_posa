@@ -1,0 +1,8 @@
+0001;53b9b79f;Google\x20Chrome;B9A2BA19-4799-4565-94C1-CA9E23F63DB5
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>

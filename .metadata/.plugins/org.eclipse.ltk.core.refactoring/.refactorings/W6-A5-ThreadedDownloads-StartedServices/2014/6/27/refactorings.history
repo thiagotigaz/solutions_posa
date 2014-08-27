@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;drawable-ldpi&apos; to &apos;drawable-mdpi&apos;&#x0A;- Original project: &apos;W6-A5-ThreadedDownloads-StartedServices&apos;&#x0A;- Destination element: &apos;drawable-mdpi&apos;&#x0A;- Original element: &apos;drawable-ldpi&apos;&#x0A;- Update references to refactored element" description="Move folder" element1="res/drawable-ldpi" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1404071513126" target="res/drawable-mdpi" units="0" version="1.0"/>
+</session>

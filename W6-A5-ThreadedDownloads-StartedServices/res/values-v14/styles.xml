@@ -1,0 +1,9 @@
+0001;53b06ac5;Google\x20Chrome;9DBE8420-7C68-423F-8D62-FD274CEAB84Fhis theme completely replaces
+        AppBaseTheme from BOTH res/values/styles.xml and
+        res/values-v11/styles.xml on API 14+ devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+
+</resources>

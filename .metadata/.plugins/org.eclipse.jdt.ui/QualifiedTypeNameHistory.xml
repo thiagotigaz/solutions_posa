@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="edu.vuum.mooca.SynchronizedQueue.SynchronizedQueueResult"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantReadWriteLock"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.AbstractQueuedSynchronizer.ConditionObject"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.AbstractQueuedLongSynchronizer.ConditionObject"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.Condition"/>
+<fullyQualifiedTypeName name="java.util.concurrent.locks.ReentrantLock"/>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+<fullyQualifiedTypeName name="org.junit.runners.Suite"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.SimpleSemaphore"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CountDownLatch"/>
+<fullyQualifiedTypeName name="android.test.UiThreadTest"/>
+<fullyQualifiedTypeName name="javax.security.auth.login.Configuration"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.SliderUI"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.R"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.storage.StorageUtilities"/>
+<fullyQualifiedTypeName name="junit.framework.TestSuite"/>
+<fullyQualifiedTypeName name="junit.framework.Test"/>
+<fullyQualifiedTypeName name="android.os.Message"/>
+<fullyQualifiedTypeName name="android.os.Messenger"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadRequest"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadRequest.Stub"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadCall"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadCall.Stub"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadBase"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadBoundServiceAsync"/>
+<fullyQualifiedTypeName name="edu.vuum.mocca.DownloadUtils"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>
